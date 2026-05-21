@@ -1,7 +1,7 @@
 ---
-title: Contato
-icon: fas fa-envelope
-order: 3
+
+icon: fas fa-info-circle
+order: 4
 ---
 ## CONTATO
 
