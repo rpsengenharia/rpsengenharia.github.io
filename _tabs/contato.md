@@ -1,5 +1,5 @@
 ---
-title: Contato
+title: ""
 icon: fas fa-envelope
 order: 3
 ---
