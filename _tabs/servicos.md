@@ -4,7 +4,6 @@ icon: fas fa-tools
 order: 2
 ---
 
-## Serviços Prestados
 
 Atuamos em soluções completas para energia, infraestrutura crítica e data centers, combinando engenharia, consultoria e execução técnica com foco em confiabilidade, eficiência e redução de custos.
 
