@@ -3,7 +3,7 @@ layout: home
 title: RPS Engenharia
 ---
 
-# Excelência em Energia, Data Centers e Infraestrutura
+# Consultoria em Infraestrutura Crítica e Energia
 
 A RPS Engenharia entrega soluções de alta confiabilidade em energia, infraestrutura crítica e projetos de data centers.
 
