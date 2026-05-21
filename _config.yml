@@ -7,7 +7,7 @@ title: "RPS Engenharia"
 tagline: "Energia, Data Centers e Infraestrutura"
 
 description: >-
-  Excelência em engenharia, consultoria e infraestrutura crítica.
+  Consultoria em Infraestrutura Crítica e Energia.
 
 url: "https://rpsengenharia.com"
 baseurl: ""
@@ -31,7 +31,7 @@ social:
   links:
     - https://www.linkedin.com/company/rpsengenharia/
 
-theme_mode: light
+theme_mode: dark
 
 logo: /assets/img/logo.png
 
