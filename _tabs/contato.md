@@ -4,4 +4,6 @@ icon: fas fa-envelope
 order: 3
 ---
 
-{% include_relative ../contato.md %}
+# Contato
+
+📧 contato@rpsengenharia.com
