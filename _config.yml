@@ -58,9 +58,6 @@ defaults:
       layout: page
       permalink: /:title/
 
-feed:
-  enabled: false
-
 paginate: 10
 
 sass:
