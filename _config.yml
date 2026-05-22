@@ -29,7 +29,7 @@ social:
   name: "RPS Engenharia"
   email: contato@rpsengenharia.com
   links:
-    - https://www.linkedin.com/company/rpsengenharia/
+      - https://www.linkedin.com/company/rpsengenharia/
 
 theme_mode: dark
 
@@ -57,6 +57,9 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+
+feed:
+  enabled: false
 
 paginate: 10
 
