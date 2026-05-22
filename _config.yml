@@ -22,8 +22,8 @@ nav:
   - title: "Insights"
     url: https://insights.rpsengenharia.com
 
-github:
-  username: rpsengenharia
+# github:
+#  username: rpsengenharia
 
 social:
   name: "RPS Engenharia"
